@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a full stack developer.
 
 ## 🚀 About Me
-- 🌱 Currently solidifying my problem-solving skills by taking on the Euler Project challenges on FreeCodeCamp.
 - 🛠️ Exploring AI — I am looking into incorporating AI into my future projects.
 - 💬 Ask me about **JavaScript, Node.js, teamwork**
 
