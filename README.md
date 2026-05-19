@@ -72,8 +72,8 @@ https://ayabongamtsolo.netlify.app
 
 ## 📊 GitHub Stats
 
-![Ayabong-a's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayabong-a&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayabong-a&layout=compact&theme=radical)
+![Ayabong-a's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayabong-a&show_icons=true&theme=radical&v=2)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayabong-a&layout=compact&theme=radical&v=2)
 
 ---
 
@@ -86,7 +86,7 @@ https://ayabongamtsolo.netlify.app
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/ayabong-a/ayabonga-a/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ayabong-a/ayabong-a/output/github-contribution-grid-snake.svg)
 
 ---
 
