@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ayabonga!
 
-I’m a Full Stack Developer who enjoys building things that actually make life easier.
+I'm a Full Stack Developer who enjoys building things that actually make life easier.
 
 What pulled me into tech was curiosity — wanting to understand how things work.  
 What keeps me here is the challenge of turning ideas into real, usable products.
@@ -12,7 +12,7 @@ What keeps me here is the challenge of turning ideas into real, usable products.
 - 🧠 Currently building a **Tutoring Hub** — a platform to connect students with tutors and simplify session management  
   → *Vision: make quality education more accessible through simple, scalable technology*
 - 🧩 I like working across the stack — from UI details to backend logic
-- 🤝 I’ve worked in a team with developers and a UX designer, turning Figma designs into working features
+- 🤝 I've worked in a team with developers and a UX designer, turning Figma designs into working features
 - 🛠️ I enjoy solving messy, real-world problems (like CSS conflicts inside iframes… yeah, that kind of thing)
 - 🤖 Exploring how AI can be integrated into practical, everyday tools
 
@@ -90,4 +90,4 @@ https://ayabongamtsolo.netlify.app
 
 ---
 
-✨ Thanks for stopping by — I’m always open to learning, building, and collaborating.
+✨ Thanks for stopping by — I'm always open to learning, building, and collaborating.
