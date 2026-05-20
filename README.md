@@ -72,8 +72,8 @@ https://ayabongamtsolo.netlify.app
 
 ## 📊 GitHub Stats
 
-![Ayabong-a's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayabong-a&show_icons=true&theme=radical&v=2)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayabong-a&layout=compact&theme=radical&v=2)
+[![ayabong-a's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayabong-a&theme=radical)](https://github.com/ayabong-a)  
+[![ayabong-a's Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayabong-a&theme=radical)](https://github.com/ayabong-a)
 
 ---
 
